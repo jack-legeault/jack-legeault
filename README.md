@@ -1,0 +1,8 @@
+- Hello, my name is Jack LeGeault!
+- I'm currently a Data Science Student at the University of Minnesota - Twin Cities.
+- I will be graduating in December 2024, and am currently looking for entry-level jobs in data, analytics, software engineering, and other tech fields.
+- Long term, I am looking to get into sports analytics and working with sports organizations of any kind at any level.
+- I am currently still working on my bachelor's degree, but am also taking online courses on coding, web development, and anayltics. You can track my progress through my projects posted to my GitHub.
+- 📫 How to reach me:
+-     Email: jacklegeault@gmail.com
+-     LinkedIn: www.linkedin.com/in/jack-legeault-206846290
